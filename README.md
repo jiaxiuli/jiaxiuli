@@ -16,3 +16,5 @@
   ![Less](https://img.shields.io/badge/-Less-orange?style=plastic&logo=Less)
   ![Sass](https://img.shields.io/badge/-Sass-yellowgreen?style=plastic&logo=Sass)
   ![Git](https://img.shields.io/badge/-git-black?style=plastic&logo=Git)
+  ![npm](https://img.shields.io/badge/-npm-yellow?style=plastic&logo=npm)
+  ![Yarn](https://img.shields.io/badge/-yarn-blue?style=plastic&logo=Yarn)

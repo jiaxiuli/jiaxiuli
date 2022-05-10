@@ -13,7 +13,7 @@
   ![react](https://img.shields.io/badge/-react-lightgrey?style=plastic&logo=react)
   ![vue](https://img.shields.io/badge/-vue-lightgrey?style=plastic&logo=Vue.js)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  - ![HTML5](https://img.shields.io/badge/-html-green?style=plastic&logo=HTML5)
+    - ![HTML5](https://img.shields.io/badge/-html-green?style=plastic&logo=HTML5)
   ![Less](https://img.shields.io/badge/-Less-orange?style=plastic&logo=Less)
   ![Sass](https://img.shields.io/badge/-Sass-yellowgreen?style=plastic&logo=Sass)
   ![Swagger](https://img.shields.io/badge/-Swagger-yellow?style=plastic&logo=Swagger)

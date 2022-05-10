@@ -19,7 +19,8 @@
   ![Swagger](https://img.shields.io/badge/-Swagger-yellow?style=plastic&logo=Swagger)
   ![Git](https://img.shields.io/badge/-git-black?style=plastic&logo=Git)
   ![npm](https://img.shields.io/badge/-npm-yellow?style=plastic&logo=npm)
-  ![Yarn](https://img.shields.io/badge/-yarn-blue?style=plastic&logo=Yarn)
+  ![Yarn](https://img.shields.io/badge/-yarn-blue?style=plastic&logo=Yarn)  
+  
 - 💪 I'm learning:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express)

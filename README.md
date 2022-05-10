@@ -22,7 +22,7 @@
   ![Yarn](https://img.shields.io/badge/-yarn-blue?style=plastic&logo=Yarn)
 - 💪 I'm learning:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
-  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
+  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express)
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)

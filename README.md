@@ -6,6 +6,7 @@
 - 🤔 I’m trying to complete a full-stack web application and deploy it on AWS.
 - 🥇 I'm passionate to continuously explor new development skills and have fun from it.
 - 🎸 I'm a music lover who plays mutiple musical instruments and was a drummer in a band.
+
 #### My tech stack 🛠
 - 🚀 my daily using:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -30,3 +31,5 @@
   
 #### Welcome to my personal website 🎨
 - [Jiaxiu Li's personal website](https://www.coder-lijiaxiu.com)
+
+![](https://github-readme-stats.vercel.app/api?username=jiaxiuli)

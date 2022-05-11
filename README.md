@@ -34,5 +34,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jiaxiuli)
 <!--START_SECTION:waka-->
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&jiaxiuli&layout=compact&&theme=default&link="https://www.github.com/jiaxiuli/jiaxiuli")
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=jiaxiuli&layout=compact&&theme=default&link="https://www.github.com/jiaxiuli/jiaxiuli")
 <!--END_SECTION:waka-->

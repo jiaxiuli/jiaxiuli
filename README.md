@@ -33,6 +33,6 @@
 - [Jiaxiu Li's personal website](https://www.coder-lijiaxiu.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=jiaxiuli)
+
 <!--START_SECTION:waka-->
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=jiaxiuli&layout=compact&&theme=default&link="https://www.github.com/jiaxiuli/jiaxiuli")
 <!--END_SECTION:waka-->

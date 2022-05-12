@@ -35,4 +35,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=jiaxiuli)
 
 <!--START_SECTION:waka-->
+
+```text
+Other   4 hrs 49 mins   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->

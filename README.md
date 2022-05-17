@@ -34,6 +34,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jiaxiuli)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxiuli)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 
 ```text

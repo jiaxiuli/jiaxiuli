@@ -37,13 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 28 December 2022
+From: 22 December 2022 - To: 29 December 2022
 
-JavaScript   4 hrs 34 mins   ████████████████████▒░░░░   81.93 %
-EJS          33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-YAML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JavaScript   1 hr 50 mins    ████████████████████████▓   98.53 %
+XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+EJS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->

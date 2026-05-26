@@ -30,7 +30,7 @@
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)  
   
 #### Welcome to my personal website 🎨
-- [Jiaxiu Li's personal website](https://www.coder-lijiaxiu.com)
+- [Jiaxiu Li's personal website](https://coding-leo.com/)
 
 ![](https://github-readme-stats.vercel.app/api?username=jiaxiuli)
 
